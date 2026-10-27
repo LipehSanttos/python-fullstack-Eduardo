@@ -1,0 +1,30 @@
+[
+    {
+        "aluno": "João Pedro",
+        "nota1": 9.0,
+        "nota2": 8.0,
+        "nota3": 9.0,
+        "media": 8.67
+    },
+    {
+        "aluno": "Carlos Alberto",
+        "nota1": 8.0,
+        "nota2": 6.0,
+        "nota3": 4.0,
+        "media": 6.0
+    },
+    {
+        "aluno": "Marcos Aurélio",
+        "nota1": 6.0,
+        "nota2": 6.0,
+        "nota3": 7.0,
+        "media": 6.33
+    },
+    {
+        "aluno": "Marcos André",
+        "nota1": 9.0,
+        "nota2": 9.0,
+        "nota3": 10.0,
+        "media": 9.33
+    }
+]
